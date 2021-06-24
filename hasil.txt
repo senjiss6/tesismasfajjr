@@ -1,0 +1,15 @@
+TfidfVectorizer + RandomForestClassifier = 0.805341551104263
+CountVectorizer + RandomForestClassifier = 0.810220852593734
+HashingVectorizer + RandomForestClassifier = lemot
+
+TfidfVectorizer + LogisticRegression = 0.8821263482280431
+CountVectorizer + LogisticRegression = lemot
+HashingVectorizer + LogisticRegression = lemot
+
+TfidfVectorizer + BernoulliNB = 0.79070364663585
+CountVectorizer + BernoulliNB = 0.79070364663585
+HashingVectorizer + BernoulliNB = 0.6669234720082178
+
+TfidfVectorizer + SVC = lemot
+CountVectorizer + SVC = lemot
+HashingVectorizer + SVC = lemot
